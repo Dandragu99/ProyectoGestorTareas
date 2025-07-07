@@ -1,4 +1,4 @@
-# Proyecto final de la clase de Desarrollo de Interfaces
+# Proyecto final de la clase de Desarrollo de Interfaces PySide6
 
 ## Introducción
 
